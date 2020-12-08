@@ -98,6 +98,8 @@ function draw() {
       gameState = PLAY;
       score = 0
       monkey.visible = true;
+      monkey.y = 215;
+      monkey.x = 50;
     }
   }
    
